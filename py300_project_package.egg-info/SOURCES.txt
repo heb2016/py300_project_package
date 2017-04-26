@@ -1,6 +1,0 @@
-README.rst
-setup.cfg
-py300_project_package.egg-info/PKG-INFO
-py300_project_package.egg-info/SOURCES.txt
-py300_project_package.egg-info/dependency_links.txt
-py300_project_package.egg-info/top_level.txt
